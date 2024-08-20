@@ -1,0 +1,7 @@
+/* assets/css/admin-styles.css */
+#hit-thumbnails-container img {
+    margin: 10px;
+    border: 1px solid #ddd;
+    padding: 5px;
+    background: #f7f7f7;
+}
